@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "გაყიდვების დებილობა პლატფორმა",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Ssajaia/E-commer"
+  },
+  "author": "saba sajaia",
+  "license": "MIT"
+}
